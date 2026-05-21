@@ -1,2 +1,2 @@
-# Hotel-Management-System-CNDC
-Hotel Management System with computer networking simulated in Multisim featuring multi-terminal access, room booking logic, guest management indicators, and centralized billing display.
+Hotel-Network-Management-System-Cisco
+Complete hotel network infrastructure design in Cisco Packet Tracer featuring centralized server, multi-department connectivity, guest Wi-Fi, VoIP phones, and secure inter-VLAN routing for hotel operations.
